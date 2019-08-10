@@ -1,0 +1,89 @@
+<html>
+
+<!--
+   Module 9 Final
+   HTML Project (Home Page)
+   Created by Chad Riel
+   08/07/2019
+-->
+
+<style>
+  .bordered {
+    width: 945px;
+    height: 80px;
+    padding: 10px;
+    border: 5px outset #9704A8;
+  }
+</style>
+
+<style>
+  .bordered2 {
+    width: 975px;
+    height: 1150px;
+    padding: 10px;
+    border: 10px inset #9704A8;
+    border-radius: 12px;
+  }
+</style>
+
+<style>
+  .FS24 {
+   font-size: 24
+  }
+</style>
+
+<head>
+
+<h1 style="text-align: center; color: #9704A8">IT-104 Summer 2019 Revisited</h1>
+
+</head>
+
+<body class="bordered2">
+
+<p style="text-align: center;"><img src="./content/images/IT104logo.png" alt="IT 104 logo" /></p>
+
+<h3 style="text-align: center; color: purple"><font face="Comic Sans MS">Welcome to a walk down memory lane.</font></h3>
+
+<div class="bordered">
+Yakima Valley College(YVC) was the starting point of this journey. The Course was IT-104 "Internet Essentials". Classes began summer of 2019 and ran from June 24th to Aug. 13th. This summer course was shorter than normal courses so we had a bunch to study in a short amount of time. The instructor for this course was the famous <b><i>Stephan Apperson</b></i>. With his guidance and well structured plan for our success, we made it to the end bighter then ever imagined. This course was the beginning of my journey toward my future in the IT industry.
+</div>
+
+<p><font face="Arial">Provided below is a list of the modules we covered during the journey</font>. As you navigate to each page you will find some of my saved work for that module.</p>
+
+<ul>
+  <li><b>Module <font class="FS24">1</font></b> &nbsp &nbsp <a href= ./content/pages/mods/mod1/mod1.html?subject="HTML link"><big><i>Browser Basics</i></big></a> &nbsp &nbsp <small>(June 24th to June 29th)</small></li>
+<br />
+  <li><b>Module <font class="FS24">2</font></b> &nbsp &nbsp <a href= ./content/pages/mods/mod2/mod2.html?subject="HTML link"><big><i>Basic Communication on the Internet:Email</i></big></a> &nbsp &nbsp <small>(June 29th to July 5th)</small></li>
+<br />
+  <li><b>Module <font class="FS24">3</font></b> &nbsp &nbsp <a href= ./content/pages/mods/mod3/mod3.html?subject="HTML link"><big><i>Searching the Web</i></big></a> &nbsp &nbsp <small>(July 5th to July 11th)</small></li>
+<br />
+  <li><b>Module <font class="FS24">4</font></b> &nbsp &nbsp <a href= ./content/pages/mods/mod4/mod4.html?subject="HTML link"><big><i>Information Resources on the Web</i></big></a> &nbsp &nbsp <small>(July 11th to July 17th)</small></li>
+<br />
+  <li><b>Module <font class="FS24">5</font></b> &nbsp &nbsp <a href= ./content/pages/mods/mod5/mod5.html?subject="HTML link"><big><i>User-Generated Content on the Internet</i></big></a> &nbsp &nbsp <small>(July 17th to July 23rd)</small></li>
+<br />
+  <li><b>Module <font class="FS24">6</font></b> &nbsp &nbsp <a href= ./content/pages/mods/mod6/mod6.html?subject="HTML link"><big><i>Internet Security</i></big></a> &nbsp &nbsp <small>(July 23rd to July 29th)</small></li>
+<br />
+  <li><b>Module <font class="FS24">7</font></b> &nbsp &nbsp <a href= ./content/pages/mods/mod7/mod7.html?subject="HTML link"><big><i>Wireless Networking</i></big></a> &nbsp &nbsp <small>(July 29th to Aug. 4th)</small></li>
+<br />
+  <li><b>Module <font class="FS24"><FS24>8</font></b> &nbsp &nbsp <a href= ./content/pages/mods/mod8/mod8.html?subject="HTML link"><big><i>Creating Effective Webpages</i></big></a> &nbsp &nbsp <small>(Aug. 4th to Aug. 10th)</small></li>
+<br />
+  <li><b>FINAL</b> &nbsp &nbsp <big><i>HTML Project (project you are viewing)</i></big> &nbsp &nbsp <small>(Aug. 4th to Aug. 10th)</small></li>
+</ul>
+
+<br />
+
+<p style="text-align: center; color: red">(SITE UNDER CONSTRUCTION! Some pages are still missing data but navaigation is still operable.)
+
+<p style="text-align: center">
+ <a href="./content/pages/contacts/contacts.html"?subject="HTML link">CONTACTS</a>
+  &nbsp
+  &nbsp
+  &nbsp
+  &nbsp
+  &nbsp
+ <a href="https://www.yvcc.edu/"?subject="HTML link">Yakima Valley College</a>
+</p>
+
+</body>
+
+</html>
